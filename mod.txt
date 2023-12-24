@@ -1,0 +1,20 @@
+{
+    "name": "proj",
+    "description": "moreproj",
+    "author": "fixiehartmann",
+    "contact": "ichmagkake666@gmail.com",
+    "version": "1.0",
+    "priority": 1,
+    "hooks": [
+        {
+            "hook_id": "lib/tweak_data/weapontweakdata",
+            "script_path": "lua/weapontweakdata.lua"
+        }
+    ],
+    "localized": {
+        "english": {
+            "mod_name": "daddyyyy",
+            "mod_description": "tftftftftftf"
+        }
+    }
+}
